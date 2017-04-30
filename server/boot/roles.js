@@ -2,12 +2,12 @@
 
 module.exports = function(app) {
 
-//   var User = app.models.User;
+//   var User = app.models.Account;
 //   var Role = app.models.Role;
 //   var RoleMapping = app.models.RoleMapping;
 
 //  User.create([
-//     {username: 'admin', email: 'admin@khod.com', password: 'admin'}
+//     {firstName:'mohammad',lastName:'ahmadi',username: 'admin', email: 'admin@khod.com', password: 'admin'}
 //   ], function(err, users) {
 //     if (err) console.log(err);
 
@@ -26,6 +26,4 @@ module.exports = function(app) {
 //       });
 //     });
 //   });
-
-
 };
